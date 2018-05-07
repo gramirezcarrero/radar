@@ -21,18 +21,18 @@ var d = [[
 			{axis:"",value:0.6},
 			{axis:"",value:0.6}
 			],[
-			{axis:"1",value:0},
-			{axis:"asd",value:0},
-			{axis:"",value:10},
-			{axis:"",value:5},
-			{axis:"",value:8},
-			{axis:"",value:0},
-			{axis:"",value:3},
-			{axis:"",value:0},
-			{axis:"",value:0},
-			{axis:"",value:0},
-			{axis:"",value:0},
-			{axis:"",value:0}
+			{axis:"1",value:0.2},
+			{axis:"asd",value:0.2},
+			{axis:"",value:0.1},
+			{axis:"",value:0.5},
+			{axis:"",value:0.3},
+			{axis:"",value:0.4},
+			{axis:"",value:0.3},
+			{axis:"",value:0.5},
+			{axis:"",value:0.5},
+			{axis:"",value:0.4},
+			{axis:"",value:0.3},
+			{axis:"",value:0.3}
 		]
 		];
 
